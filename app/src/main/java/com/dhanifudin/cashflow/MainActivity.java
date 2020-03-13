@@ -5,7 +5,6 @@ import android.os.Bundle;
 
 import com.dhanifudin.cashflow.adapters.TransactionAdapter;
 import com.dhanifudin.cashflow.models.Account;
-import com.dhanifudin.cashflow.models.Session;
 import com.dhanifudin.cashflow.models.Transaction;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 

@@ -1,7 +1,6 @@
 package com.dhanifudin.cashflow;
 
 import com.dhanifudin.cashflow.models.Account;
-import com.dhanifudin.cashflow.models.Session;
 
 public class Application extends android.app.Application {
 
